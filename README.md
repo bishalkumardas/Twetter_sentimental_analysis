@@ -1,4 +1,3 @@
 # Streamlit-app
-Sample repository for youtube video
 
-<h2>You can read the 'steps to follow.txt' file and follow those steps to successfuly deploy your Streamlit app on Heroku. </h2>
+<h2>You can access this page through this link https://tweeter-bishal.herokuapp.com/. </h2>
